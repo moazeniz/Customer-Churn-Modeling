@@ -1,5 +1,3 @@
-# Customer-Churn-Modeling
-
 # Customer Churn Prediction Project  
 
 This project is focused on predicting customer churn using machine learning algorithms. Churn is a key business metric that reflects the percentage of customers who discontinue their subscription or stop using a service. By identifying factors that influence churn, businesses can proactively retain customers and enhance customer satisfaction.  
@@ -98,6 +96,22 @@ Contributions are welcome! If you would like to enhance this project, please sub
 
 ---
 
+## License  
+
+This project is licensed under the [MIT License](LICENSE).  
+
+---
+
 ## Acknowledgments  
 
 Special thanks to the contributors and open-source libraries used in this project, including `scikit-learn`, `xgboost`, and `numpy`.  
+
+---
+
+## Citation  
+
+This project utilized the **"Iranian Churn"** dataset from the UCI Machine Learning Repository:  
+
+"Iranian Churn," UCI Machine Learning Repository, 2020. [Online]. Available: [https://doi.org/10.24432/C5JW3Z](https://doi.org/10.24432/C5JW3Z).  
+
+Please cite this source if you build upon or reference this project.
